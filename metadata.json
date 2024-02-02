@@ -2,6 +2,6 @@
   "name": "ValiDAO",
   "website": "https://validao.xyz",
   "description": "ValiDAO is a DAO-owned, multichain validator running on bare-metal in Iceland",
-  "logo": "https://github.com/validaoxyz/eigenlayer-operator/blob/main/validao-logo.png",
+  "logo": "https://raw.githubusercontent.com/validaoxyz/eigenlayer-operator/main/validao-logo.png",
   "twitter": "https://twitter.com/validaoxyz"
 }
