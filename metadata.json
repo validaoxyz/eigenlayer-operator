@@ -1,7 +1,7 @@
 {
   "name": "ValiDAO",
   "website": "https://validao.xyz",
-  "description": "ValiDAO operates high up-time & secure consensus services from bare-metal servers in Iceland",
+  "description": "ValiDAO operates consensus services with an exceptional focus on reliability and security, directly from our state-of-the-art, bare-metal servers in Iceland.",
   "logo": "https://raw.githubusercontent.com/validaoxyz/eigenlayer-operator/main/validao-logo.png",
   "twitter": "https://twitter.com/validaoxyz"
 }
